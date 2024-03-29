@@ -8,7 +8,7 @@ if (isset($_GET['lat']) && isset($_GET['lng'])) {
 <head>
     <title>Show Map</title>
     <!-- Include the Google Maps API script -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnxEOYkPRj6VynnJ_FB42U32JJ0JHhZrY&libraries=places&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIza****&libraries=places&callback=initMap" async defer></script>
     <script>
         // Initialize the map with the provided latitude and longitude
         function initMap() {
