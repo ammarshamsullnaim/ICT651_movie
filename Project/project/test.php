@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Event Dashboard</title>
   <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAeUOWcoif1SDM3L9EuNkn5qHs070bKQPQ&callback=initMap"></script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIza*******&callback=initMap"></script>
   <style>
     #app {
       max-width: 800px;
